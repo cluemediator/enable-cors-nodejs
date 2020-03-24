@@ -2,7 +2,7 @@
 Example to enable CORS in Node.js
 
 Please check the given link for step by step tutorial
-**https://www.cluemediator.com/how-to-enable-cors-in-Node-js**
+**https://www.cluemediator.com/how-to-enable-cors-in-node-js**
 
 ## Setup
 Follow below steps to run project
